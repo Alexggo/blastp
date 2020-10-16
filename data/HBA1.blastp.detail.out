@@ -1,0 +1,235 @@
+sp|P69906|HBA_PANPA	100.000	142	0	0	3.31e-100	286	Hemoglobin subunit alpha OS=Pan paniscus OX=9597 GN=HBA1 PE=1 SV=2
+sp|P69905|HBA_HUMAN	100.000	142	0	0	3.31e-100	286	Hemoglobin subunit alpha OS=Homo sapiens OX=9606 GN=HBA1 PE=1 SV=2
+sp|P69907|HBA_PANTR	100.000	142	0	0	3.31e-100	286	Hemoglobin subunit alpha OS=Pan troglodytes OX=9598 GN=HBA1 PE=1 SV=2
+tr|A0A2J8R2J5|A0A2J8R2J5_PONAB	98.592	142	2	0	5.93e-99	283	Uncharacterized protein OS=Pongo abelii OX=9601 GN=LOC112128473 PE=3 SV=1
+sp|P01923|HBA_GORGO	99.291	141	1	0	1.78e-98	282	Hemoglobin subunit alpha OS=Gorilla gorilla gorilla OX=9595 GN=HBA PE=1 SV=1
+tr|A0A2K6TFX8|A0A2K6TFX8_SAIBB	95.775	142	6	0	2.52e-95	274	Alpha-globin OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1
+sp|P01935|HBA3_PANTR	88.652	141	16	0	5.82e-92	266	Hemoglobin subunit alpha-3 OS=Pan troglodytes OX=9598 PE=1 SV=1
+sp|P01934|HBA3_GORGO	89.362	141	15	0	9.33e-92	265	Hemoglobin subunit alpha-3 OS=Gorilla gorilla gorilla OX=9595 PE=1 SV=1
+tr|A0A2R9B6C3|A0A2R9B6C3_PANPA	97.674	129	3	0	9.20e-89	257	Hemoglobin subunit alpha OS=Pan paniscus OX=9597 GN=HBA1 PE=3 SV=1
+sp|P01958|HBA_HORSE	88.028	142	17	0	6.07e-87	253	Hemoglobin subunit alpha OS=Equus caballus OX=9796 GN=HBA PE=1 SV=2
+tr|G3SF30|G3SF30_GORGO	88.966	145	13	1	2.03e-86	252	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|A0A3Q2H875|A0A3Q2H875_HORSE	87.324	142	18	0	2.37e-86	251	Hemoglobin subunit alpha OS=Equus caballus OX=9796 GN=HBA PE=3 SV=1
+sp|P07405|HBA_FELCA	85.106	141	21	0	4.09e-86	251	Hemoglobin subunit alpha OS=Felis catus OX=9685 GN=HBA PE=1 SV=1
+tr|Q28383|Q28383_HORSE	86.620	142	19	0	5.82e-86	250	GLOBIN domain-containing protein OS=Equus caballus OX=9796 GN=HBA2 PE=3 SV=1
+tr|G3RLZ6|G3RLZ6_GORGO	87.755	147	13	2	2.30e-84	246	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|A0A2I3TML6|A0A2I3TML6_PANTR	84.138	145	20	1	4.85e-84	246	Hemoglobin subunit alpha OS=Pan troglodytes OX=9598 GN=HBA2 PE=3 SV=1
+tr|A0A384A3E4|A0A384A3E4_BALAS	83.099	142	24	0	6.58e-84	245	hemoglobin subunit alpha isoform X1 OS=Balaenoptera acutorostrata scammoni OX=310752 GN=LOC103009910 PE=3 SV=1
+tr|J9JHF7|J9JHF7_CANLF	83.099	142	24	0	2.43e-83	244	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 GN=LOC100855540 PE=3 SV=1
+tr|G3RNU8|G3RNU8_GORGO	84.828	145	19	1	3.49e-83	243	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|A0A3Q7REP8|A0A3Q7REP8_VULVU	83.099	142	24	0	4.39e-83	243	hemoglobin subunit alpha OS=Vulpes vulpes OX=9627 GN=LOC112909065 PE=3 SV=1
+sp|P60529|HBA_CANLF	83.688	141	23	0	6.80e-83	243	Hemoglobin subunit alpha OS=Canis lupus familiaris OX=9615 GN=HBA PE=1 SV=1
+sp|P21200|HBA_VULVU	82.979	141	24	0	4.39e-82	241	Hemoglobin subunit alpha OS=Vulpes vulpes OX=9627 GN=HBA PE=1 SV=1
+tr|D3U1H2|D3U1H2_LOXAF	81.690	142	26	0	6.89e-82	240	Globin C1 OS=Loxodonta africana OX=9785 GN=HBA-T2 PE=2 SV=1
+sp|P01955|HBA_LOXAF	81.560	141	26	0	4.80e-81	238	Hemoglobin subunit alpha OS=Loxodonta africana OX=9785 GN=HBA PE=1 SV=1
+tr|A0A0A0MQ02|A0A0A0MQ02_FELCA	75.352	142	35	0	2.03e-75	224	Alpha-globin OS=Felis catus OX=9685 GN=LOC111558267 PE=3 SV=2
+tr|G3V1N2|G3V1N2_HUMAN	100.000	110	0	0	2.10e-74	220	HCG1745306, isoform CRA_a OS=Homo sapiens OX=9606 GN=HBA2 PE=1 SV=1
+tr|J9NXL3|J9NXL3_CANLF	79.710	138	28	0	2.62e-74	224	Uncharacterized protein OS=Canis lupus familiaris OX=9615 GN=LOC100855540 PE=3 SV=2
+tr|A0A2R9B8M8|A0A2R9B8M8_PANPA	97.273	110	3	0	9.05e-73	216	Hemoglobin subunit alpha OS=Pan paniscus OX=9597 GN=HBA1 PE=3 SV=1
+tr|A0A6I8NYG5|A0A6I8NYG5_ORNAN	72.340	141	39	0	1.12e-72	217	Hemoglobin subunit alpha OS=Ornithorhynchus anatinus OX=9258 GN=LOC100087130 PE=3 SV=1
+sp|P01979|HBA_ORNAN	72.340	141	39	0	1.29e-72	217	Hemoglobin subunit alpha OS=Ornithorhynchus anatinus OX=9258 GN=HBA PE=1 SV=1
+tr|A0A6I8NZ57|A0A6I8NZ57_ORNAN	72.340	141	39	0	7.40e-72	215	Hemoglobin subunit alpha OS=Ornithorhynchus anatinus OX=9258 GN=LOC100087130 PE=3 SV=1
+tr|A0A2K6TFT5|A0A2K6TFT5_SAIBB	97.273	110	3	0	3.69e-71	212	GLOBIN domain-containing protein OS=Saimiri boliviensis boliviensis OX=39432 PE=3 SV=1
+tr|A0A6I8NFF3|A0A6I8NFF3_ORNAN	72.340	141	39	0	4.55e-71	216	Hemoglobin subunit alpha OS=Ornithorhynchus anatinus OX=9258 GN=LOC100087130 PE=3 SV=1
+sp|P01994|HBA_CHICK	70.423	142	42	0	5.02e-69	207	Hemoglobin subunit alpha-A OS=Gallus gallus OX=9031 GN=HBAA PE=1 SV=2
+tr|A0A5F5Q0Z8|A0A5F5Q0Z8_HORSE	68.310	142	45	0	7.76e-65	197	Hemoglobin subunit alpha OS=Equus caballus OX=9796 GN=HBA PE=3 SV=1
+tr|A0A3Q7SFR3|A0A3Q7SFR3_VULVU	86.607	112	15	0	5.42e-64	194	hemoglobin subunit alpha-like OS=Vulpes vulpes OX=9627 GN=LOC112909032 PE=3 SV=1
+tr|A0A5F5PI90|A0A5F5PI90_HORSE	87.273	110	14	0	7.81e-64	193	Hemoglobin subunit alpha OS=Equus caballus OX=9796 GN=HBA PE=3 SV=1
+tr|G3X8H7|G3X8H7_LOXAF	66.901	142	47	0	1.88e-62	191	Hemoglobin subunit theta 1 OS=Loxodonta africana OX=9785 GN=HBQ1 PE=3 SV=1
+tr|A0A5F4DHT8|A0A5F4DHT8_CANLF	86.486	111	15	0	6.91e-62	192	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 GN=LOC100855540 PE=3 SV=1
+tr|A0A5K1UJY4|A0A5K1UJY4_FELCA	64.085	142	51	0	3.78e-61	188	Alpha-globin OS=Felis catus OX=9685 GN=LOC111558267 PE=3 SV=1
+tr|A0A2R8Y7C0|A0A2R8Y7C0_HUMAN	98.889	90	1	0	1.25e-60	186	Hemoglobin subunit alpha (Fragment) OS=Homo sapiens OX=9606 GN=HBA2 PE=1 SV=1
+tr|A0A2I2UFY2|A0A2I2UFY2_FELCA	57.310	171	43	1	1.85e-60	187	Alpha-globin OS=Felis catus OX=9685 GN=HBQ1 PE=3 SV=2
+tr|G3RJU5|G3RJU5_GORGO	61.972	142	54	0	3.97e-59	182	Hemoglobin subunit theta 1 OS=Gorilla gorilla gorilla OX=9595 GN=HBQ1 PE=3 SV=1
+sp|P02001|HBAD_CHICK	59.574	141	57	0	6.43e-59	182	Hemoglobin subunit alpha-D OS=Gallus gallus OX=9031 GN=HBAD PE=1 SV=1
+sp|P02007|HBPI_CHICK	57.746	142	60	0	6.79e-59	182	Hemoglobin subunit pi OS=Gallus gallus OX=9031 PE=1 SV=3
+tr|A0A2R9BK37|A0A2R9BK37_PANPA	61.972	142	54	0	1.03e-58	182	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 GN=HBQ1 PE=3 SV=1
+sp|P09105|HBAT_HUMAN	61.972	142	54	0	1.03e-58	182	Hemoglobin subunit theta-1 OS=Homo sapiens OX=9606 GN=HBQ1 PE=1 SV=2
+tr|A0A2I3SN30|A0A2I3SN30_PANTR	61.972	142	54	0	1.03e-58	182	Hemoglobin subunit theta 1 OS=Pan troglodytes OX=9598 GN=HBQ1 PE=3 SV=1
+tr|A0A384A3F0|A0A384A3F0_BALAS	64.493	138	49	0	2.61e-58	181	LOW QUALITY PROTEIN: hemoglobin subunit theta-1 OS=Balaenoptera acutorostrata scammoni OX=310752 GN=HBQ1 PE=3 SV=1
+tr|A0A384A3S6|A0A384A3S6_BALAS	60.563	142	56	0	2.63e-57	178	Hemoglobin subunit zeta OS=Balaenoptera acutorostrata scammoni OX=310752 GN=HBZ PE=3 SV=1
+tr|A0A5F4CYE6|A0A5F4CYE6_CANLF	60.563	142	56	0	1.05e-56	176	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 GN=LOC100855600 PE=3 SV=1
+tr|G3UJH3|G3UJH3_LOXAF	59.155	142	58	0	1.19e-56	176	Hemoglobin subunit zeta OS=Loxodonta africana OX=9785 PE=3 SV=1
+sp|P13787|HBAZ_HORSE	59.155	142	58	0	1.87e-56	176	Hemoglobin subunit zeta OS=Equus caballus OX=9796 GN=HBZ1 PE=3 SV=2
+sp|P02008|HBAZ_HUMAN	59.859	142	57	0	1.93e-56	176	Hemoglobin subunit zeta OS=Homo sapiens OX=9606 GN=HBZ PE=1 SV=2
+tr|A0A3Q2I2J3|A0A3Q2I2J3_HORSE	59.859	142	57	0	2.65e-56	176	Hemoglobin subunit alpha OS=Equus caballus OX=9796 GN=HBA PE=3 SV=1
+tr|G3U5A2|G3U5A2_LOXAF	59.155	142	58	0	3.16e-56	175	Hemoglobin subunit zeta OS=Loxodonta africana OX=9785 GN=GLNE1 PE=3 SV=1
+tr|A0A3Q7R381|A0A3Q7R381_VULVU	59.859	142	57	0	3.98e-56	175	hemoglobin subunit zeta OS=Vulpes vulpes OX=9627 GN=HBZ PE=3 SV=1
+tr|G3SEU0|G3SEU0_GORGO	59.155	142	58	0	1.01e-55	174	Hemoglobin subunit zeta OS=Gorilla gorilla gorilla OX=9595 GN=HBZ PE=3 SV=2
+tr|A0A5F4CKP6|A0A5F4CKP6_CANLF	81.188	101	19	0	1.44e-55	176	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 GN=LOC100855540 PE=3 SV=1
+tr|A0A2I2UT27|A0A2I2UT27_FELCA	58.451	142	59	0	2.22e-55	173	Alpha-globin OS=Felis catus OX=9685 GN=LOC111558267 PE=3 SV=1
+tr|A0A2R8ZJQ4|A0A2R8ZJQ4_PANPA	59.155	142	58	0	4.77e-55	172	Hemoglobin subunit zeta OS=Pan paniscus OX=9597 GN=HBZ PE=3 SV=1
+sp|P06347|HBAZ_PANTR	59.155	142	58	0	4.77e-55	172	Hemoglobin subunit zeta OS=Pan troglodytes OX=9598 GN=HBZ1 PE=3 SV=2
+sp|P06714|HBAT_HORSE	59.155	142	58	0	6.14e-55	172	Hemoglobin subunit theta-1 OS=Equus caballus OX=9796 GN=HBQ1 PE=3 SV=2
+tr|H2NPI8|H2NPI8_PONAB	59.859	142	54	1	1.43e-54	171	Hemoglobin subunit theta 1 OS=Pongo abelii OX=9601 GN=HBQ1 PE=3 SV=1
+tr|J9P710|J9P710_CANLF	50.888	169	56	1	1.58e-50	162	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 GN=LOC100855600 PE=3 SV=1
+tr|A0A6I8PQ12|A0A6I8PQ12_ORNAN	47.727	176	58	1	1.19e-49	160	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=1
+tr|A0A6I8N7A0|A0A6I8N7A0_ORNAN	70.297	101	30	0	1.05e-45	150	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=1
+tr|A0A2I3RP32|A0A2I3RP32_PANTR	74.545	110	17	4	3.68e-42	138	GLOBIN domain-containing protein OS=Pan troglodytes OX=9598 PE=3 SV=1
+tr|K7EFP3|K7EFP3_ORNAN	79.012	81	17	0	3.85e-41	137	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=1
+tr|A0A5F4DKA2|A0A5F4DKA2_CANLF	46.099	141	76	0	1.96e-40	135	Hemoglobin subunit mu OS=Canis lupus familiaris OX=9615 GN=HBM PE=3 SV=1
+tr|A0A3Q7RF35|A0A3Q7RF35_VULVU	46.099	141	76	0	2.43e-40	135	hemoglobin subunit mu OS=Vulpes vulpes OX=9627 GN=HBM PE=3 SV=1
+sp|Q6B0K9|HBM_HUMAN	45.390	141	77	0	2.46e-40	135	Hemoglobin subunit mu OS=Homo sapiens OX=9606 GN=HBM PE=1 SV=1
+tr|A0A2K6U7R3|A0A2K6U7R3_SAIBB	44.681	141	78	0	4.79e-40	134	Hemoglobin subunit mu OS=Saimiri boliviensis boliviensis OX=39432 GN=HBM PE=3 SV=1
+tr|H2NPI6|H2NPI6_PONAB	44.681	141	78	0	7.49e-40	134	Globin E1 OS=Pongo abelii OX=9601 GN=HBM PE=3 SV=1
+tr|G3QY87|G3QY87_GORGO	44.681	141	78	0	7.49e-40	134	Hemoglobin subunit mu OS=Gorilla gorilla gorilla OX=9595 GN=HBM PE=3 SV=1
+tr|A0A2R8ZJR3|A0A2R8ZJR3_PANPA	44.681	141	78	0	1.85e-39	133	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 GN=HBM PE=3 SV=1
+tr|H2R1M1|H2R1M1_PANTR	44.681	141	78	0	1.85e-39	133	Hemoglobin subunit mu OS=Pan troglodytes OX=9598 GN=HBM PE=3 SV=1
+tr|A0A384A3I4|A0A384A3I4_BALAS	44.681	141	78	0	1.51e-38	130	hemoglobin subunit mu OS=Balaenoptera acutorostrata scammoni OX=310752 GN=HBM PE=3 SV=1
+tr|A0A6I8MZR1|A0A6I8MZR1_ORNAN	40.426	141	84	0	7.74e-38	129	Hemoglobin subunit mu OS=Ornithorhynchus anatinus OX=9258 GN=HBM PE=3 SV=1
+tr|M3WAU3|M3WAU3_FELCA	44.681	141	78	0	9.73e-38	128	Alpha-globin OS=Felis catus OX=9685 GN=GLNE1 PE=3 SV=1
+tr|A0A6I8NJE6|A0A6I8NJE6_ORNAN	46.309	149	42	1	1.07e-36	127	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=1
+tr|A0A5F5XCH4|A0A5F5XCH4_FELCA	54.455	101	46	0	1.67e-33	118	Alpha-globin OS=Felis catus OX=9685 GN=LOC111558267 PE=3 SV=1
+tr|A0A5F5Y0M8|A0A5F5Y0M8_FELCA	54.455	101	46	0	8.18e-33	117	Alpha-globin OS=Felis catus OX=9685 GN=LOC111558267 PE=3 SV=1
+tr|J9NVU7|J9NVU7_CANLF	36.111	180	76	1	9.79e-33	117	Hemoglobin subunit mu OS=Canis lupus familiaris OX=9615 GN=HBM PE=3 SV=2
+tr|A0A2R9AC19|A0A2R9AC19_PANPA	44.138	145	73	3	9.90e-33	116	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 GN=HBD PE=3 SV=1
+sp|P61772|HBD_PANTR	44.138	145	73	3	9.90e-33	116	Hemoglobin subunit delta OS=Pan troglodytes OX=9598 GN=HBD PE=1 SV=2
+sp|P61773|HBD_GORGO	44.138	145	73	3	9.90e-33	116	Hemoglobin subunit delta OS=Gorilla gorilla gorilla OX=9595 GN=HBD PE=1 SV=2
+sp|P02024|HBB_GORGO	44.138	145	73	3	1.86e-32	115	Hemoglobin subunit beta OS=Gorilla gorilla gorilla OX=9595 GN=HBB PE=1 SV=2
+tr|H2NEE2|H2NEE2_PONAB	43.448	145	74	3	2.52e-32	115	Globin A1 OS=Pongo abelii OX=9601 GN=HBB PE=3 SV=1
+sp|P02042|HBD_HUMAN	43.448	145	74	3	3.24e-32	114	Hemoglobin subunit delta OS=Homo sapiens OX=9606 GN=HBD PE=1 SV=2
+sp|P68872|HBB_PANPA	43.448	145	74	3	3.65e-32	114	Hemoglobin subunit beta OS=Pan paniscus OX=9597 GN=HBB PE=1 SV=2
+sp|P68871|HBB_HUMAN	43.448	145	74	3	3.65e-32	114	Hemoglobin subunit beta OS=Homo sapiens OX=9606 GN=HBB PE=1 SV=2
+sp|P68873|HBB_PANTR	43.448	145	74	3	3.65e-32	114	Hemoglobin subunit beta OS=Pan troglodytes OX=9598 GN=HBB PE=1 SV=2
+tr|G3SIN5|G3SIN5_GORGO	43.448	145	74	3	6.36e-32	114	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+sp|P69891|HBG1_HUMAN	41.379	145	77	3	1.18e-31	113	Hemoglobin subunit gamma-1 OS=Homo sapiens OX=9606 GN=HBG1 PE=1 SV=2
+sp|P61920|HBG1_PANTR	41.379	145	77	3	1.18e-31	113	Hemoglobin subunit gamma-1 OS=Pan troglodytes OX=9598 GN=HBG1 PE=1 SV=2
+sp|P69892|HBG2_HUMAN	41.379	145	77	3	1.33e-31	113	Hemoglobin subunit gamma-2 OS=Homo sapiens OX=9606 GN=HBG2 PE=1 SV=2
+sp|P61921|HBG2_PANTR	41.379	145	77	3	1.33e-31	113	Hemoglobin subunit gamma-2 OS=Pan troglodytes OX=9598 GN=HBG2 PE=1 SV=2
+sp|P62742|HBG2_GORGO	41.379	145	77	3	1.33e-31	113	Hemoglobin subunit gamma-2 OS=Gorilla gorilla gorilla OX=9595 GN=HBG2 PE=2 SV=2
+tr|G3SBL4|G3SBL4_GORGO	41.379	145	77	3	1.85e-31	112	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+sp|Q28779|HBG1_PANPA	40.690	145	78	3	2.32e-31	112	Hemoglobin subunit gamma-1 OS=Pan paniscus OX=9597 GN=HBG1 PE=2 SV=3
+tr|H2R5L8|H2R5L8_PANTR	40.690	145	78	3	2.32e-31	112	Globin B1 OS=Pan troglodytes OX=9598 GN=HBG1 PE=3 SV=2
+sp|P62741|HBG1_GORGO	40.690	145	78	3	3.55e-31	112	Hemoglobin subunit gamma-1 OS=Gorilla gorilla gorilla OX=9595 GN=HBG1 PE=2 SV=2
+tr|A0A5F5XZS1|A0A5F5XZS1_FELCA	41.379	145	77	3	4.36e-31	112	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=1
+sp|Q45XJ0|HBD_LOXAF	41.379	145	77	3	9.76e-31	111	Hemoglobin subunit delta OS=Loxodonta africana OX=9785 GN=HBD PE=2 SV=3
+sp|P02085|HBB_LOXAF	41.379	145	77	3	1.08e-30	110	Hemoglobin subunit beta OS=Loxodonta africana OX=9785 GN=HBB PE=1 SV=1
+tr|H2NED9|H2NED9_PONAB	40.690	145	78	3	1.21e-30	110	Uncharacterized protein OS=Pongo abelii OX=9601 GN=LOC100439631 PE=3 SV=1
+tr|A0A3Q7REE8|A0A3Q7REE8_VULVU	41.379	145	77	3	3.60e-30	109	hemoglobin subunit beta OS=Vulpes vulpes OX=9627 GN=LOC112911749 PE=3 SV=1
+sp|P21201|HBB_VULVU	41.379	145	77	3	3.69e-30	109	Hemoglobin subunit beta OS=Vulpes vulpes OX=9627 GN=HBB PE=1 SV=1
+tr|H2NED8|H2NED8_PONAB	39.310	145	80	3	5.44e-30	109	Globin B1 OS=Pongo abelii OX=9601 GN=LOC100438895 PE=3 SV=1
+tr|A0A2K6S1A6|A0A2K6S1A6_SAIBB	41.379	145	77	3	8.68e-30	108	Hemoglobin subunit delta OS=Saimiri boliviensis boliviensis OX=39432 GN=HBD PE=3 SV=1
+tr|F6RF57|F6RF57_HORSE	40.690	145	78	3	1.34e-29	108	Globin B1 OS=Equus caballus OX=9796 GN=LOC100068926 PE=3 SV=1
+tr|A0A3Q7SPY7|A0A3Q7SPY7_VULVU	40.000	145	79	3	1.38e-29	108	hemoglobin subunit epsilon OS=Vulpes vulpes OX=9627 GN=HBE1 PE=3 SV=1
+tr|M3WVZ4|M3WVZ4_FELCA	40.690	145	78	3	1.38e-29	108	Globin A1 OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=2
+tr|A0A383ZCZ3|A0A383ZCZ3_BALAS	40.690	145	78	3	2.00e-29	107	hemoglobin subunit beta OS=Balaenoptera acutorostrata scammoni OX=310752 GN=LOC103002708 PE=3 SV=1
+tr|G5E759|G5E759_LOXAF	40.000	145	79	3	2.31e-29	107	GLOBIN domain-containing protein OS=Loxodonta africana OX=9785 PE=3 SV=1
+tr|A0A2I2U6J8|A0A2I2U6J8_FELCA	39.310	145	80	3	3.84e-29	107	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=1
+sp|P60524|HBB_CANLF	40.690	145	78	3	4.17e-29	107	Hemoglobin subunit beta OS=Canis lupus familiaris OX=9615 GN=HBB PE=1 SV=1
+sp|P07412|HBB_FELCA	40.000	145	79	3	4.35e-29	107	Hemoglobin subunit beta-A/B OS=Felis catus OX=9685 GN=HBB PE=1 SV=1
+tr|E2RLH6|E2RLH6_CANLF	40.690	145	78	3	6.26e-29	107	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 GN=LOC609402 PE=3 SV=3
+tr|M3WND9|M3WND9_FELCA	40.000	145	79	3	6.99e-29	106	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=3
+tr|A0A383ZDH0|A0A383ZDH0_BALAS	38.621	145	81	3	8.97e-29	106	hemoglobin subunit epsilon-1 OS=Balaenoptera acutorostrata scammoni OX=310752 GN=LOC103002171 PE=3 SV=1
+tr|A0A2K6U507|A0A2K6U507_SAIBB	41.379	145	77	3	1.13e-28	105	Hemoglobin subunit beta OS=Saimiri boliviensis boliviensis OX=39432 GN=HBB PE=3 SV=1
+sp|P02112|HBB_CHICK	40.426	141	76	3	1.30e-28	105	Hemoglobin subunit beta OS=Gallus gallus OX=9031 GN=HBB PE=1 SV=2
+tr|A0A3Q7RPS7|A0A3Q7RPS7_VULVU	38.621	145	81	2	2.36e-28	105	hemoglobin subunit beta-like OS=Vulpes vulpes OX=9627 GN=LOC112911778 PE=3 SV=1
+sp|P02127|HBRH_CHICK	38.889	144	80	3	2.71e-28	104	Hemoglobin subunit rho OS=Gallus gallus OX=9031 PE=1 SV=2
+tr|A0A3Q7RPP1|A0A3Q7RPP1_VULVU	38.621	145	81	3	4.15e-28	104	hemoglobin subunit epsilon-2 OS=Vulpes vulpes OX=9627 GN=LOC112911740 PE=3 SV=1
+tr|G3TM42|G3TM42_LOXAF	38.621	145	81	3	4.24e-28	104	Globin B1 OS=Loxodonta africana OX=9785 GN=GLNB1 PE=3 SV=1
+tr|F6PNA4|F6PNA4_CANLF	39.310	145	80	3	4.88e-28	104	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 GN=LOC609402 PE=3 SV=1
+sp|Q45XH8|HBG_LOXAF	38.621	145	81	3	4.99e-28	104	Hemoglobin subunit gamma OS=Loxodonta africana OX=9785 GN=HBG PE=2 SV=2
+tr|A0A2I2UXL4|A0A2I2UXL4_FELCA	39.310	145	80	3	5.04e-28	104	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=1
+tr|A0A5F4C1A2|A0A5F4C1A2_CANLF	40.690	145	78	3	6.17e-28	107	Uncharacterized protein OS=Canis lupus familiaris OX=9615 GN=LOC609402 PE=3 SV=1
+tr|A0A5F5XHE9|A0A5F5XHE9_FELCA	38.621	145	81	3	6.61e-28	103	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=1
+tr|A0A5F4DDY0|A0A5F4DDY0_CANLF	40.690	145	78	3	6.80e-28	107	Uncharacterized protein OS=Canis lupus familiaris OX=9615 GN=LOC609402 PE=3 SV=1
+tr|H2QA68|H2QA68_PANTR	53.211	109	51	0	1.05e-27	102	GLOBIN domain-containing protein OS=Pan troglodytes OX=9598 PE=3 SV=2
+tr|A0A1K0FUK6|A0A1K0FUK6_HORSE	37.931	145	82	3	1.51e-27	103	Globin B2 OS=Equus caballus OX=9796 GN=GLNB2 PE=3 SV=1
+tr|A0A5F4D7C9|A0A5F4D7C9_CANLF	38.621	145	81	3	2.11e-27	102	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 GN=LOC609402 PE=3 SV=1
+tr|F1PYZ1|F1PYZ1_CANLF	40.000	145	79	3	3.06e-27	105	Uncharacterized protein OS=Canis lupus familiaris OX=9615 GN=LOC609402 PE=3 SV=3
+sp|Q28775|HBE_PANPA	39.007	141	78	3	3.59e-27	102	Hemoglobin subunit epsilon OS=Pan paniscus OX=9597 GN=HBE1 PE=2 SV=3
+tr|A0A2R9BP35|A0A2R9BP35_PANPA	39.007	141	78	3	5.37e-27	101	Hemoglobin subunit epsilon OS=Pan paniscus OX=9597 GN=HBE1 PE=3 SV=1
+sp|P02100|HBE_HUMAN	39.007	141	78	3	5.37e-27	101	Hemoglobin subunit epsilon OS=Homo sapiens OX=9606 GN=HBE1 PE=1 SV=2
+sp|Q6LDH1|HBE_PANTR	39.007	141	78	3	5.37e-27	101	Hemoglobin subunit epsilon OS=Pan troglodytes OX=9598 GN=HBE1 PE=2 SV=3
+sp|Q6LDH0|HBE_GORGO	39.007	141	78	3	5.37e-27	101	Hemoglobin subunit epsilon OS=Gorilla gorilla gorilla OX=9595 GN=HBE1 PE=2 SV=3
+tr|A0A6I8PBU0|A0A6I8PBU0_ORNAN	39.310	145	80	3	6.82e-27	101	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC114809067 PE=3 SV=1
+sp|P02111|HBB_ORNAN	39.310	145	80	3	7.00e-27	101	Hemoglobin subunit beta OS=Ornithorhynchus anatinus OX=9258 GN=HBB PE=1 SV=1
+sp|P02128|HBE_CHICK	38.194	144	81	3	7.12e-27	101	Hemoglobin subunit epsilon OS=Gallus gallus OX=9031 GN=HBE PE=1 SV=2
+tr|A0A1D5P4A2|A0A1D5P4A2_CHICK	38.194	144	81	3	8.75e-27	100	Hemoglobin subunit epsilon OS=Gallus gallus OX=9031 GN=HBE PE=3 SV=2
+tr|A0A2J8SVW9|A0A2J8SVW9_PONAB	37.241	145	83	3	8.94e-27	100	Hemoglobin subunit epsilon 1 OS=Pongo abelii OX=9601 GN=HBE1 PE=3 SV=1
+tr|A0A5F5Y5C2|A0A5F5Y5C2_FELCA	37.931	145	82	3	9.14e-27	100	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=1
+tr|A0A2R8Y7X9|A0A2R8Y7X9_HUMAN	37.952	166	74	5	9.92e-27	101	GLOBIN domain-containing protein OS=Homo sapiens OX=9606 PE=3 SV=1
+sp|P68029|HBE_SAIBB	35.862	145	85	3	1.54e-26	100	Hemoglobin subunit epsilon OS=Saimiri boliviensis boliviensis OX=39432 GN=HBE1 PE=2 SV=2
+tr|A0A5F5Q369|A0A5F5Q369_HORSE	43.448	145	74	3	6.02e-26	99.4	GLOBIN domain-containing protein OS=Equus caballus OX=9796 GN=LOC100068926 PE=3 SV=1
+tr|Q90864|Q90864_CHICK	38.298	141	79	3	6.65e-26	99.0	Beta-H globin OS=Gallus gallus OX=9031 GN=HBE1 PE=3 SV=1
+tr|A0A2R9BEB9|A0A2R9BEB9_PANPA	41.270	126	68	2	1.27e-25	97.4	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 PE=3 SV=1
+tr|H2RB13|H2RB13_PANTR	43.966	116	59	2	2.72e-25	97.1	Hemoglobin subunit gamma-2 OS=Pan troglodytes OX=9598 GN=HBG2 PE=3 SV=2
+tr|F7AI41|F7AI41_ORNAN	42.069	145	76	3	3.30e-25	97.1	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 PE=3 SV=1
+tr|A0A6I8PII1|A0A6I8PII1_ORNAN	39.007	141	78	3	3.41e-25	97.1	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC114806148 PE=3 SV=1
+tr|A0A6I8P156|A0A6I8P156_ORNAN	42.069	145	76	3	4.24e-25	96.7	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC100088690 PE=3 SV=1
+sp|P02062|HBB_HORSE	42.759	145	75	3	2.24e-24	94.7	Hemoglobin subunit beta OS=Equus caballus OX=9796 GN=HBB PE=1 SV=1
+tr|F6VE37|F6VE37_HORSE	41.379	145	77	3	3.66e-24	94.4	GLOBIN domain-containing protein OS=Equus caballus OX=9796 GN=LOC100068926 PE=3 SV=2
+tr|A0A2R9BLH4|A0A2R9BLH4_PANPA	42.609	115	61	1	3.82e-24	94.0	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 PE=3 SV=1
+tr|E9PBW4|E9PBW4_HUMAN	47.778	90	47	0	4.58e-23	89.7	Hemoglobin subunit gamma-2 OS=Homo sapiens OX=9606 GN=HBG2 PE=1 SV=2
+tr|A0A2R9BLC6|A0A2R9BLC6_PANPA	47.778	90	47	0	1.45e-22	89.7	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 PE=3 SV=1
+tr|G3RYX7|G3RYX7_GORGO	41.379	116	62	2	1.61e-22	90.1	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|A0A5F5XZB1|A0A5F5XZB1_FELCA	38.793	116	65	2	1.52e-21	87.8	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=1
+tr|E9PFT6|E9PFT6_HUMAN	44.762	105	50	3	2.50e-21	87.0	Hemoglobin subunit delta OS=Homo sapiens OX=9606 GN=HBD PE=1 SV=1
+tr|A0A2R9A6U0|A0A2R9A6U0_PANPA	44.762	105	50	3	2.64e-21	87.0	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 GN=HBD PE=3 SV=1
+tr|A0A2I3T2P6|A0A2I3T2P6_PANTR	44.762	105	50	3	2.64e-21	87.0	Hemoglobin subunit delta OS=Pan troglodytes OX=9598 GN=HBD PE=3 SV=1
+tr|G3RZQ0|G3RZQ0_GORGO	44.762	105	50	3	2.65e-21	87.0	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|E9PEW8|E9PEW8_HUMAN	45.631	103	48	3	7.58e-21	84.7	Hemoglobin subunit delta (Fragment) OS=Homo sapiens OX=9606 GN=HBD PE=1 SV=1
+tr|A0A5F4CRA8|A0A5F4CRA8_CANLF	52.778	72	34	0	7.59e-21	84.0	GLOBIN domain-containing protein OS=Canis lupus familiaris OX=9615 PE=3 SV=1
+tr|A0A2R8Y7R2|A0A2R8Y7R2_HUMAN	42.857	105	52	3	1.30e-20	84.3	Hemoglobin subunit beta OS=Homo sapiens OX=9606 GN=HBB PE=1 SV=1
+tr|A0A5F5XUG6|A0A5F5XUG6_FELCA	38.793	116	65	2	1.80e-20	84.7	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=1
+tr|A0A5F5XJB1|A0A5F5XJB1_FELCA	37.931	116	66	2	2.71e-20	84.3	GLOBIN domain-containing protein OS=Felis catus OX=9685 GN=HBE1 PE=3 SV=1
+tr|Q5QRU6|Q5QRU6_CHICK	33.113	151	88	3	8.61e-20	83.2	Eye-globin OS=Gallus gallus OX=9031 GN=GBE PE=2 SV=1
+tr|F6RDD3|F6RDD3_HORSE	41.463	123	61	4	1.65e-19	82.8	GLOBIN domain-containing protein OS=Equus caballus OX=9796 GN=LOC100068926 PE=3 SV=2
+tr|A0A3Q2GYX5|A0A3Q2GYX5_HORSE	36.667	120	70	2	3.10e-19	81.6	GLOBIN domain-containing protein OS=Equus caballus OX=9796 PE=3 SV=2
+tr|A0A2K6S1B0|A0A2K6S1B0_SAIBB	40.000	105	55	3	2.06e-17	77.0	Hemoglobin subunit delta OS=Saimiri boliviensis boliviensis OX=39432 GN=HBD PE=3 SV=1
+tr|A0A5F4DAK7|A0A5F4DAK7_CANLF	40.385	104	54	3	2.08e-17	79.0	Uncharacterized protein OS=Canis lupus familiaris OX=9615 GN=LOC609402 PE=3 SV=1
+tr|Q5QRU7|Q5QRU7_CHICK	29.530	149	96	2	5.82e-17	76.6	Cytoglobin OS=Gallus gallus OX=9031 GN=CYGB PE=2 SV=1
+tr|A0A3Q2GVQ1|A0A3Q2GVQ1_HORSE	41.905	105	53	3	8.39e-17	76.3	GLOBIN domain-containing protein OS=Equus caballus OX=9796 GN=LOC100068926 PE=3 SV=1
+tr|A0A5F4CSM1|A0A5F4CSM1_CANLF	35.897	117	67	3	3.86e-15	72.0	Uncharacterized protein OS=Canis lupus familiaris OX=9615 GN=LOC609402 PE=3 SV=1
+tr|A0A494C057|A0A494C057_HUMAN	51.786	56	27	0	1.88e-14	67.0	Hemoglobin subunit zeta (Fragment) OS=Homo sapiens OX=9606 GN=HBZ PE=1 SV=1
+tr|A0A452CAK5|A0A452CAK5_BALAS	33.065	124	74	3	1.95e-14	68.9	hemoglobin subunit epsilon-4-like isoform X2 OS=Balaenoptera acutorostrata scammoni OX=310752 GN=LOC103012568 PE=3 SV=1
+tr|A0A452CA27|A0A452CA27_BALAS	33.333	129	72	4	2.55e-14	68.6	hemoglobin subunit epsilon-4-like isoform X1 OS=Balaenoptera acutorostrata scammoni OX=310752 GN=LOC103012568 PE=3 SV=1
+sp|Q8WWM9|CYGB_HUMAN	28.082	146	96	2	6.04e-14	68.9	Cytoglobin OS=Homo sapiens OX=9606 GN=CYGB PE=1 SV=1
+tr|K7AH89|K7AH89_PANTR	28.082	146	96	2	6.04e-14	68.9	Cytoglobin OS=Pan troglodytes OX=9598 GN=CYGB PE=2 SV=1
+tr|A0A2K6S135|A0A2K6S135_SAIBB	28.082	146	96	2	7.38e-14	68.9	Cytoglobin OS=Saimiri boliviensis boliviensis OX=39432 GN=CYGB PE=3 SV=1
+tr|A0A3Q7SJP6|A0A3Q7SJP6_VULVU	28.082	146	96	2	7.94e-14	68.6	cytoglobin isoform X2 OS=Vulpes vulpes OX=9627 GN=CYGB PE=3 SV=1
+tr|F1PDN7|F1PDN7_CANLF	28.082	146	96	2	1.09e-13	68.2	Cytoglobin OS=Canis lupus familiaris OX=9615 GN=CYGB PE=3 SV=1
+tr|A0A2I2YA07|A0A2I2YA07_GORGO	28.082	146	96	2	1.39e-13	68.2	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=1
+tr|A0A3Q7TKF9|A0A3Q7TKF9_VULVU	28.082	146	96	2	1.48e-13	68.2	cytoglobin isoform X1 OS=Vulpes vulpes OX=9627 GN=CYGB PE=3 SV=1
+tr|M3W436|M3W436_FELCA	28.082	146	96	2	1.48e-13	68.2	Cytoglobin OS=Felis catus OX=9685 GN=CYGB PE=3 SV=2
+tr|A0A2K6SVV4|A0A2K6SVV4_SAIBB	66.667	45	15	0	2.85e-13	64.3	Hemoglobin subunit zeta OS=Saimiri boliviensis boliviensis OX=39432 GN=HBZ PE=3 SV=1
+tr|F8W6P5|F8W6P5_HUMAN	40.449	89	45	3	3.13e-13	64.7	Hemoglobin subunit beta (Fragment) OS=Homo sapiens OX=9606 GN=HBB PE=1 SV=1
+tr|A0A5F5XYE7|A0A5F5XYE7_FELCA	28.082	146	96	2	1.29e-12	67.0	Cytoglobin OS=Felis catus OX=9685 GN=CYGB PE=3 SV=1
+tr|A0A6I8NPV7|A0A6I8NPV7_ORNAN	25.342	146	101	4	2.36e-12	63.9	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 GN=LOC114806036 PE=3 SV=1
+tr|A0A3Q2I4Y4|A0A3Q2I4Y4_HORSE	27.397	146	97	2	3.73e-12	64.3	GLOBIN domain-containing protein OS=Equus caballus OX=9796 GN=CYGB PE=3 SV=2
+tr|H2NUT8|H2NUT8_PONAB	27.737	137	90	2	1.05e-11	62.4	GLOBIN domain-containing protein OS=Pongo abelii OX=9601 GN=CYGB PE=3 SV=2
+tr|A0A2R9CRS6|A0A2R9CRS6_PANPA	26.712	146	96	3	3.70e-11	61.6	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 PE=3 SV=1
+tr|A0A3Q7R4N0|A0A3Q7R4N0_VULVU	58.140	43	18	0	3.56e-10	56.2	hemoglobin subunit theta-1-like OS=Vulpes vulpes OX=9627 GN=LOC112909031 PE=3 SV=1
+tr|G3UIL0|G3UIL0_LOXAF	29.907	107	66	2	4.32e-10	57.4	Cytoglobin OS=Loxodonta africana OX=9785 GN=CYGB PE=3 SV=1
+sp|P02197|MYG_CHICK	28.859	149	98	3	1.24e-08	54.3	Myoglobin OS=Gallus gallus OX=9031 GN=MB PE=1 SV=4
+tr|G3QGB6|G3QGB6_GORGO	29.907	107	66	2	1.71e-08	54.7	GLOBIN domain-containing protein OS=Gorilla gorilla gorilla OX=9595 PE=3 SV=2
+tr|A0A2K6S150|A0A2K6S150_SAIBB	30.631	111	68	2	1.82e-08	54.7	Cytoglobin OS=Saimiri boliviensis boliviensis OX=39432 GN=CYGB PE=3 SV=1
+tr|K7EMC7|K7EMC7_HUMAN	30.631	111	68	2	2.01e-08	54.7	Cytoglobin OS=Homo sapiens OX=9606 GN=CYGB PE=1 SV=1
+tr|G3R764|G3R764_GORGO	27.517	149	100	3	7.72e-08	52.0	Myoglobin OS=Gorilla gorilla gorilla OX=9595 GN=MB PE=3 SV=1
+tr|F7A3H3|F7A3H3_ORNAN	26.667	120	79	2	1.38e-07	51.2	Cytoglobin OS=Ornithorhynchus anatinus OX=9258 GN=CYGB PE=3 SV=1
+sp|P02144|MYG_HUMAN	27.517	149	100	3	1.50e-07	51.2	Myoglobin OS=Homo sapiens OX=9606 GN=MB PE=1 SV=2
+tr|A0A5F4DA56|A0A5F4DA56_CANLF	27.731	119	77	2	1.99e-07	51.6	Cytoglobin OS=Canis lupus familiaris OX=9615 GN=CYGB PE=3 SV=1
+tr|A0A2R9BL13|A0A2R9BL13_PANPA	27.517	149	100	3	3.43e-07	50.4	Myoglobin OS=Pan paniscus OX=9597 GN=MB PE=3 SV=1
+sp|P02145|MYG_PANTR	27.517	149	100	3	3.43e-07	50.4	Myoglobin OS=Pan troglodytes OX=9598 GN=MB PE=1 SV=2
+sp|P02196|MYG_ORNAN	27.703	148	101	1	8.08e-07	49.3	Myoglobin OS=Ornithorhynchus anatinus OX=9258 GN=MB PE=1 SV=2
+tr|B0QYF8|B0QYF8_HUMAN	28.467	137	90	3	2.41e-06	47.8	Myoglobin (Fragment) OS=Homo sapiens OX=9606 GN=MB PE=1 SV=1
+tr|A0A383YSM7|A0A383YSM7_BALAS	27.703	148	101	1	3.38e-06	47.8	Myoglobin OS=Balaenoptera acutorostrata scammoni OX=310752 GN=MB PE=3 SV=1
+sp|P63113|MYG_CANLF	27.517	149	100	3	6.19e-06	47.0	Myoglobin OS=Canis lupus familiaris OX=9615 GN=MB PE=1 SV=2
+tr|A0A2R9CIG8|A0A2R9CIG8_PANPA	28.829	111	68	3	7.75e-06	47.4	GLOBIN domain-containing protein OS=Pan paniscus OX=9597 PE=3 SV=1
+tr|M3WCL7|M3WCL7_FELCA	27.517	149	100	3	8.07e-06	46.6	Myoglobin OS=Felis catus OX=9685 GN=GLNG PE=3 SV=1
+tr|A0A3Q7U091|A0A3Q7U091_VULVU	27.517	149	100	3	8.19e-06	46.6	myoglobin OS=Vulpes vulpes OX=9627 GN=MB PE=3 SV=1
+tr|A0A2K6SPT7|A0A2K6SPT7_SAIBB	27.517	149	100	3	1.42e-05	46.2	Myoglobin OS=Saimiri boliviensis boliviensis OX=39432 GN=MB PE=3 SV=1
+sp|P68082|MYG_HORSE	25.676	148	104	1	3.14e-05	45.1	Myoglobin OS=Equus caballus OX=9796 GN=MB PE=1 SV=2
+tr|A0A452GEN9|A0A452GEN9_HORSE	25.676	148	104	1	3.71e-05	45.1	Myoglobin OS=Equus caballus OX=9796 GN=MB PE=3 SV=2
+tr|F1P8V6|F1P8V6_CANLF	26.351	148	103	1	4.64e-05	45.4	Myoglobin OS=Canis lupus familiaris OX=9615 GN=MB PE=3 SV=2
+tr|K7EIM9|K7EIM9_HUMAN	27.957	93	64	1	1.06e-04	43.1	Cytoglobin OS=Homo sapiens OX=9606 GN=CYGB PE=1 SV=1
+tr|A0A384AEP1|A0A384AEP1_BALAS	27.957	93	64	1	2.27e-04	42.4	cytoglobin OS=Balaenoptera acutorostrata scammoni OX=310752 GN=CYGB PE=3 SV=1
+tr|G5E7F2|G5E7F2_LOXAF	25.676	148	104	1	2.98e-04	42.4	Myoglobin OS=Loxodonta africana OX=9785 GN=MB PE=3 SV=1
+sp|P02187|MYG_LOXAF	25.676	148	104	1	0.001	40.8	Myoglobin OS=Loxodonta africana OX=9785 GN=MB PE=1 SV=2
+tr|A0A5F4D7I8|A0A5F4D7I8_CANLF	31.429	105	65	2	0.005	39.3	Myoglobin OS=Canis lupus familiaris OX=9615 GN=MB PE=3 SV=1
+tr|A0A5F4BQU6|A0A5F4BQU6_CANLF	31.429	105	65	2	0.016	38.1	Myoglobin OS=Canis lupus familiaris OX=9615 GN=MB PE=3 SV=1
+tr|F2Z2F1|F2Z2F1_HUMAN	30.476	105	66	2	0.040	35.8	Myoglobin (Fragment) OS=Homo sapiens OX=9606 GN=MB PE=1 SV=1
+tr|Q5QSB1|Q5QSB1_CHICK	21.854	151	105	3	0.18	34.7	Neuroglobin OS=Gallus gallus OX=9031 GN=NGB PE=2 SV=1
+tr|F2Z337|F2Z337_HUMAN	35.616	73	41	1	0.26	33.1	Myoglobin (Fragment) OS=Homo sapiens OX=9606 GN=MB PE=1 SV=1
+tr|A0A3Q7TPL8|A0A3Q7TPL8_VULVU	28.409	88	52	3	0.30	34.7	eIF-2-alpha kinase activator GCN1 OS=Vulpes vulpes OX=9627 GN=GCN1 PE=3 SV=1
+tr|F6RIV9|F6RIV9_ORNAN	23.358	137	94	4	0.78	32.7	GLOBIN domain-containing protein OS=Ornithorhynchus anatinus OX=9258 GN=NGB PE=3 SV=1
+tr|Q8WVH6|Q8WVH6_HUMAN	24.176	91	67	2	1.3	31.6	Myoglobin OS=Homo sapiens OX=9606 GN=MB PE=1 SV=1
